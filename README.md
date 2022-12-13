@@ -26,6 +26,6 @@ This is a cross-sectional analysis of the state-wide population-based dataset fr
 
 •	The cancer rate for the entire state along with the age structure and the number of people in a census tract were used to estimate the expected incidence. 
 
-•	The clusters detected by SaTScan were smaller than those generated from local Moran’s I. SaTScan determines whether there is clustering or not and then gives the location, size of the cluster. LISAs provides a full map with each region colored by how similar its value is to the values of its neighbors. With the second technique, I was able to predict clustering and outliers, but this will also lead to multiple comparisons and inaccurate results. The methodologies in modeling are different; therefore, it is not surprising to observe slightly different results. 
+•	The clusters detected by SaTScan were smaller than those generated from local Moran’s I. SaTScan determines whether there is clustering or not and then gives the location, size of the cluster. LISAs provides a full map with each region colored by how similar its value is to the values of its neighbors. With the second technique, I was able to predict clustering and outliers, but this will also lead to multiple comparisons and inaccurate results. 
 
 •	In terms of choosing an appropriate analysis tool for a certain study, it is not always a right or wrong answer but depends on which model is a good fit to the objectives – whether the research focuses more on central clustering or neighborhood features/outliers. 
