@@ -1,6 +1,6 @@
 # Spatial Distribution and Association of the Relative Risk of Lung Cancer Incidence by Census Tracts Between 2013-2017 Across New York State (NYS) with Particulate Matter (PM) 2.5 microns and Adult Smoking Rates at the County Level
 
-This is a cross-sectional analysis of the state-wide population-based dataset from the New York State Cancer Registry (NYSCR), which provides incident lung cancer observed and expected cases aggregated at the census-tract level for the diagnosis years from 2013-2017. The analysis aims to investigate whether clustering is statistically significant or whether it is likely to be a chance occurrence or is simply a reflection of the distribution of the population at risk. In other words, does the observed spatial pattern differ significantly from the null hypothesis of complete spatial randomness.
+This is a cross-sectional analysis of the state-wide population-based dataset from the New York State Cancer Registry (NYSCR), which provides incident lung cancer observed and expected cases aggregated at the census-tract level for the diagnosis years from 2013-2017. The analysis aims to investigate whether clustering is statistically significant or whether it is likely to be a chance occurrence or is simply a reflection of the distribution of the population at risk. In other words, does the observed spatial pattern differ significantly from the null hypothesis of complete spatial randomness?
 
 ## Datasets
 
