@@ -14,7 +14,7 @@ This is a cross-sectional analysis of the state-wide population-based dataset fr
 
     •	The original source of % of adults who are current smokers is the individual-level Behavioral Risk Factor Surveillance System survey from 2016
 
-## Lessons Learned
+## Project Summary
 
 •	Three different local methods of cluster detection were utilized to analyze spatial clustering in diagnoses of lung cancer in NYS to allow for comparison and contrasts of the spatial autocorrelation results across techniques. 
 
